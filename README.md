@@ -3,7 +3,7 @@ HkwJsxl/HkwJsxl is a ✨ special ✨ repository because its `README.md` (this fi
 --->
 
 # Hi there hkwJsxl
-<img align="right" alt="GIF" width="666px" src="https://images.cnblogs.com/cnblogs_com/blogs/746036/galleries/2159824/o_220512093722_%E5%BE%AE%E4%BF%A1.jpg" />
+<img align="right" alt="GIF" width="333px" src="https://images.cnblogs.com/cnblogs_com/blogs/746036/galleries/2159824/o_220512093722_%E5%BE%AE%E4%BF%A1.jpg" />
 
 ### I'm lex
 - ???? Python爱好者，全栈
