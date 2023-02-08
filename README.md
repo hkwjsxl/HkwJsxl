@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @HkwJsxl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 HkwJsxl/HkwJsxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
+
+# Hi there ????
+<img align="right" alt="GIF" src="https://images.cnblogs.com/cnblogs_com/blogs/746036/galleries/2159824/o_220512093722_%E5%BE%AE%E4%BF%A1.jpg" />
+
+### I'm lex
+- ???? Python爱好者，全栈
+- ???? 运动爱好者
+- ???? 音乐爱好者
+- ???? 右边是 个人微信，欢迎联系
