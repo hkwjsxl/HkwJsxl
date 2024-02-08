@@ -14,6 +14,9 @@ Hi there 👋
 
 ![Language](https://img.shields.io/badge/language-python-blue)
 
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=hkwjsxl)]()
+
+
 
 Contact Me
 
