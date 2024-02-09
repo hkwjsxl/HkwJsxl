@@ -17,15 +17,14 @@ Hi there 👋
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=hkwjsxl)]()
 
 
-
 Contact Me
 
 📬 Email: hkwjsxl@gmail.com
 
 🌱 Below is personal WeChat, welcome to contact.
 
-![code](https://github.com/hkwjsxl/hkwjsxl/blob/main/images/code.gif){:height="50%" width="50%"}
+<img src="https://github.com/hkwjsxl/hkwjsxl/blob/main/images/code.gif" alt="code" width="50%" height="50%">
 
 ###  WeChat
 
-![wechat](https://github.com/hkwjsxl/hkwjsxl/blob/main/images/wechat.jpg){:height="50%" width="50%"}
+<img src="https://github.com/hkwjsxl/hkwjsxl/blob/main/images/wechat.jpg" alt="code" width="50%" height="50%">
