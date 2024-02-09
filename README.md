@@ -24,8 +24,11 @@ Contact Me
 
 🌱 Below is personal WeChat, welcome to contact.
 
+![code](https://github.com/hkwjsxl/hkwjsxl/blob/main/images/code.gif)
 
 ###  WeChat
+
+![wechat](https://github.com/hkwjsxl/hkwjsxl/blob/main/images/wechat.jpg)
 
 <img align="left" alt="wx_img" width="333px" src="https://images.cnblogs.com/cnblogs_com/blogs/746036/galleries/2159824/o_220512093722_%E5%BE%AE%E4%BF%A1.jpg" />
 
