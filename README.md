@@ -10,7 +10,7 @@ Hi there 👋
 
 🌏 Open Source Enthusiast.
 
-🌱 Have fun with Python/Go/Docker.
+🌱 Have fun with Python.
 
 ![Language](https://img.shields.io/badge/language-python-blue)
 
